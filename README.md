@@ -12,3 +12,5 @@ git push
 # configure username and email
 git config --global user.email "jacksonhaake25@amdg.rockhursths.edu"
 git config --global user.name "JacksonH7887"
+
+testing
